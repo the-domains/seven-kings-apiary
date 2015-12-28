@@ -1,0 +1,28 @@
+name: Seven Kings Apiary
+favicon: null
+layout_spectrum: 0.5638922259677202
+typography_spectrum: 0.0470301266759634
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.49234170536510646
+  lightness: 0.5435472358949482
+  saturation: 0.12173321843147278
+  rhythmicContrast: 0.32943535735830665
+purpose: []
